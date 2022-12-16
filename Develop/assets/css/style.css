@@ -23,7 +23,8 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-/* changed it to nav to match the index.html file  */
+/* changed it to nav to match the index.html file and all the divs that fall
+under it */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
